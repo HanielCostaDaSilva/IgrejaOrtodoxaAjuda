@@ -16,5 +16,10 @@ Este projeto tem como objetivo criar uma aplicação web para que uma igreja pos
 - Remotamente  
 acesse https://hanielcostadasilva.github.io/Ortodox-Human/
 
+## Simple Preview
+
+![Ortodox HomePage](/assets/demo/home_page_preview.png)
+
 ## Considerações finais
 Este projeto é uma aplicação simples e pode ser expandido com mais recursos, melhorias de segurança e design. Sinta-se à vontade para contribuir e adaptar conforme necessário.
+
